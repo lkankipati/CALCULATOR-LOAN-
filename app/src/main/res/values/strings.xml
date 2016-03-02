@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LOAN CALCULATOR</string>
+    <string name="Loan_Calculator"> CALCULATE YOUR LOAN </string>
+    <string name="loan_interest">LOAN INTEREST</string>
+    <string name="loan_amount">LOAN AMOUNT</string>
+    <string name="loan_peroid"> MONTHLY INSTALLMENTS </string>
+    <string name="loan_peroid1">FOR 05 YEARS</string>
+    <string name="loan_peroid2">FOR 10 YEARS</string>
+    <string name="loan_peroid3">FOR 15 YEARS</string>
+    <string name="loan_peroid4">FOR 20 YEARS</string>
+    <string name="loan_peroid5">FOR 25 YEARS</string>
+    <string name="loan_peroid6">FOR 30 YEARS</string>
+    <string name="loan_peroid0">$00.00</string>
+
+</resources>
